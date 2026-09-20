@@ -20,7 +20,7 @@ Application de **stories / statuts** (style Snapchat) : photo, vidéo et texte, 
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/swip-tv.git
+git clone https://github.com/oussamabbass/swip-tv.git
 cd swip-tv
 pip install -r requirements.txt
 python app.py
